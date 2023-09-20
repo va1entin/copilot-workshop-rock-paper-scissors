@@ -9,7 +9,8 @@
 			"extensions": [
 				"vsls-contrib.codetour",
 				"GitHub.copilot@prerelease",
-				"GitHub.copilot-labs"
+				"GitHub.copilot-labs",
+				"GitHub.copilot-chat"
 			]
 		}
 	}
